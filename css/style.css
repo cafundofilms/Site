@@ -1,0 +1,151 @@
+.no-border{
+
+	border:none !important;
+}
+.background-gallery{
+	background: #ffffff !important;
+
+}
+
+.menu-gallery{
+	text-align: left;
+	margin-left: 23px;
+	margin-right: 23px;
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
+.padding-title{
+	padding-top: 50px;
+	padding-bottom: 0px !important;
+}
+
+.text-style1{
+	font-family: didot !important;
+	color: #000000 !important;
+	font-weight: normal !important;
+	letter-spacing: 5px !important;
+    font-size: 39px !important;
+}
+
+.text-style2{
+	font-weight:normal !important;
+	font-family: didot !important;	
+	color: #db0209 !important;
+	letter-spacing: 5px !important;
+    font-size: 39px !important;
+}
+
+.text-style3{
+	font-family: didot !important;
+	font-size: 15px;	
+	color: #ffffff !important;
+
+}
+
+.head-style{
+	padding-bottom: 0px !important;
+	background: #ffffff !important;
+}
+
+.buttons-menu-gallery{
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-left: 17px !important;
+	background: none !important;
+	border:none !important;
+	box-shadow: none !important;
+	margin-right: 4px !important;
+	padding: 0px !important;
+}
+
+.logo-position{
+	margin-top: 47px !important;
+	margin-bottom: 130px !important;
+}
+
+.text-normal{
+	font-weight: normal !important;
+
+}
+
+.logo-size{
+	width: 150px !important;
+	height: 150px !important;
+    max-width: none !important;
+    max-height: none !important;
+}
+
+.buttons-menu-gallery.active{
+	color: #ce060b !important;
+}
+
+.buttons-menu-gallery:hover{
+	color: #eeeeee !important;
+}
+
+.mobilemenu-size{
+	height: 55px;
+}
+
+.menu-left-style{
+	background-color: #000000 !important;
+}
+
+.about-style-div{
+	margin-top: 0px !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.avatar-size{
+	width: 200px !important;
+	height: 200px !important;
+
+}
+
+.tittle-we-are{
+	text-align: left !important;
+	margin-bottom: 4rem !important;
+	font-weight: 400;
+	font-family: didot !important;
+	font-size: 30px !important;
+	padding-left: 20px;
+	color: #000000 !important;
+}
+
+.tittle-we-are2{
+	text-align: left !important;
+	margin-bottom: 4rem !important;
+	font-weight: 400;
+	font-family: didot !important;
+	font-size: 30px !important;
+	color: #db0209 !important;
+}
+
+.text-we-are3{
+	text-align: left !important;
+	font-weight: 400;
+	font-family: didot !important;
+	font-size: 16px !important;
+	color: #000000 !important;
+}
+
+.text-we-are2{
+	text-align: left !important;
+	font-weight: 400;
+	font-family: didot !important;
+	font-size: 12px !important;
+	color: #db0209 !important;
+}
+
+.text-we-are1{
+	text-align: left !important;
+/*	font-weight: 400;*/
+	font-family: didot !important;
+	font-size: 16px !important;
+	color: #000000 !important;
+}
+
+.text-algin-left{
+	text-align: left !important;
+}
