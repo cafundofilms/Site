@@ -13,8 +13,8 @@ $mensagem= $_POST['mensagem'];
 		$corpo.="<strong><br> Mensagem do site </strong> $email";
 		$corpo.="<strong><br> Mensagem do site </strong> $mensagem";
 
-		$header="From: $email Reply-to: $email";
-		$header="Content-Type: text/html; charset= utf-8";
+		$header="Content-Type: text/html; charset= utf-8\n";
+		$header.="From: $email Reply-to: $email\n";
 
 mail($para,$assunto,$corpo,$header);
 

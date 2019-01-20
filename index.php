@@ -154,7 +154,7 @@ $msg=0;
     <!-- Grid column -->
     <div class="col-xl-6 col-lg-12 mb-5 d-md-flex justify-content-between">
       <div class="avatar mb-md-0 mb-4 mx-4">
-        <img src="C:\Users\denis\Documents\site1\startbootstrap-resume-gh-pages\assets\images\brito.png" class="rounded z-depth-1 avatar-size" alt="Sample avatar">
+        <img src="assets\images\brito.png" class="rounded z-depth-1 avatar-size" alt="Sample avatar">
       </div>
       <div class="mx-4">
         <h4 class="font-weight-bold mb-3 text-we-are1">Daniel Brito</h4>
@@ -179,7 +179,7 @@ $msg=0;
     <!-- Grid column -->
     <div class="col-xl-6 col-lg-12 mb-5 d-md-flex justify-content-between">
       <div class="avatar mb-md-0 mb-4 mx-4">
-        <img src="C:\Users\denis\Documents\site1\startbootstrap-resume-gh-pages\assets\images\rogerio.png" class="rounded z-depth-1 avatar-size" alt="Sample avatar">
+        <img src="assets\images\rogerio.png" class="rounded z-depth-1 avatar-size" alt="Sample avatar">
       </div>
       <div class="mx-4">
         <h4 class="font-weight-bold mb-3 text-we-are1">Rogério Voltan</h4>
