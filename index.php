@@ -36,7 +36,7 @@ $msg=0;
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   <link rel="stylesheet" href="assets/css/style.css" type="text/css">
   <link rel="stylesheet" href="css/style.css" type="text/css">
-
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
   </head>
 
@@ -95,7 +95,7 @@ $msg=0;
 
 
     <div>
-        <div><!-- Filter --><div class="mbr-gallery-filter container gallery-filter-active menu-gallery"><ul buttons="0"><li class="mbr-gallery-filter-all"><a class="btn btn-md btn-primary-outline active display-7 buttons-menu-gallery" href="">Todos</a></li></ul></div><!-- Gallery --><div class="mbr-gallery-row"><div class="mbr-gallery-layout-default"><div><div>
+        <div><!-- Filter --><div class="mbr-gallery-filter container gallery-filter-active menu-gallery"><ul buttons="0"><li class="mbr-gallery-filter-all"><a class="btn btn-md btn-primary-outline active display-7 buttons-menu-gallery" href=""></a></li></ul></div><!-- Gallery --><div class="mbr-gallery-row"><div class="mbr-gallery-layout-default"><div><div>
 
    
 
@@ -161,16 +161,16 @@ $msg=0;
         <h6 class="font-weight-bold grey-text mb-3 text-we-are2">VideoMaker</h6>
         <p class="grey-text text-we-are3">Mais de trinta anos como cinegrafista, visitando países como: África do Sul, Madagascar, Costa Rica, Chile, Noruega, Finlândia, Suécia e Panamá. Trabalhos importantes: Cobertura do papa em Cuba, Copa do mundo no Brasil, Altas hora da Globo, Encontro com Fátima Bernardes, Faustão, Lata velha, Caldeirão do huck, Masterchef e Rall dos Sertões.</p>
         <!-- Facebook-->
-        <a class="p-2 fa-lg fb-ic">
-          <i class="fa fa-facebook"> </i>
+        <a class="p-2 fa-lg fb-ic social-media-icons" href="https://www.facebook.com/cam.danielbrito">
+          <i class="fab fa-facebook"> </i>
         </a>
         <!-- Twitter -->
-        <a class="p-2 fa-lg tw-ic">
-          <i class="fa fa-twitter"> </i>
+        <a class="p-2 fa-lg tw-ic social-media-icons" href="">
+          <i class="fab fa-twitter social-media-icons"> </i>
         </a>
-        <!--Dribbble -->y
-        <a class="p-2 fa-lg dribbble-ic">
-          <i class="fa fa-dribbble"> </i>
+        <!--Instagram -->
+        <a class="p-2 fa-lg ins-ic social-media-icons" href="https://www.instagram.com/danieldani43/">
+          <i class="fab fa-instagram"> </i>
         </a>
       </div>
     </div>
@@ -186,16 +186,17 @@ $msg=0;
         <h6 class="font-weight-bold grey-text mb-3 text-we-are2">Photographer</h6>
         <p class="grey-text text-we-are3">Fotógrafo profissional desde 1994. Trabalha para algumas revistas no Brasil: CASA E COMIDA, ALFA, CASA E JARDIM, VEJA, VIAGEM E TURISMO, PRAZERES DA MESA, ELLE, ESTILO, GOURMET, IATE, CLAUDIA. E internacionalmente em: Espanha, Colômbia, França, Chile, Itália, e Alemanha.</p>
         <!-- Facebook-->
-        <a class="p-2 fa-lg fb-ic">
-          <i class="fa fa-facebook"> </i>
+        <a class="p-2 fa-lg fb-ic social-media-icons" href="https://www.instagram.com/voltanphotos/">
+          <i class="fab fa-facebook"> </i>
         </a>
-        <!--YouTube -->
-        <a class="p-2 fa-lg yt-ic">
-          <i class="fa fa-youtube"> </i>
+                <!--Twitter -->
+                <a class="p-2 fa-lg tw-ic">
+          <i class="fab fa-twitter social-media-icons "> </i>
         </a>
+
         <!--Instagram-->
-        <a class="p-2 fa-lg ins-ic">
-          <i class="fa fa-instagram"> </i>
+        <a class="p-2 fa-lg ins-ic social-media-icons" ref="https://www.facebook.com/Rogerio-Voltan-169174129919490/?_rdc=1&_rdr">
+          <i class="fab fa-instagram"> </i>
         </a>
       </div>
     </div>
