@@ -1,7 +1,7 @@
 <?php
 
-$para= "cafundofilms@gmail.com"
-$assunto="Mensagem do site"
+$para= "cafundofilms@gmail.com";
+$assunto="Mensagem do site";
 $nome= $_POST['nome'];
 $email= $_POST['email'];
 $telefone= $_POST['telefone'];
