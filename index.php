@@ -136,7 +136,7 @@ $msg=0;
     </div>
 
 </section>
-      <hr class="m-0">
+      
 
 <!-- div 2 quem somos -->
       <section class="resume-section p-3 p-lg-5 d-flex flex-column background-gallery " id="experience">
@@ -215,7 +215,7 @@ $msg=0;
 
       </section>
 
-      <hr class="m-0">
+      
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column background-gallery" id="education">
       
@@ -244,7 +244,7 @@ $msg=0;
 
       </section>
 
-<!--       <hr class="m-0">
+<!--       
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
  Quarta area --><!--       </section> --> 
