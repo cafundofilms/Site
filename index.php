@@ -42,8 +42,10 @@ $msg=0;
 
   <body id="page-top">
 
-            <?php if($msg==enviado): ?>
+            <?php if($msg=="    "): ?>
           <h1>Mensagem enviada, retornaremos em breve</h1>
+
+        <?php endif ?>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top menu-left-style" id="sideNav">
       <a class="navbar-brand js-scroll-trigger logo-position" href="#page-top">
