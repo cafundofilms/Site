@@ -1,7 +1,7 @@
 <?php
 
-$para= "cafundofilms@gmail.com"
-$assunto="Mensagem do site"
+$para= "cafundofilms@gmail.com";
+$assunto="Mensagem do site";
 $nome= $_POST['nome'];
 $email= $_POST['email'];
 $telefone= $_POST['telefone'];
@@ -26,6 +26,6 @@ mail($para,$assunto,$corpo,$header);
 //     $pagina = "mail_error.php";
 // }
 
-header("location:$index.php?msg=enviado");
+header("location:https://cafundofilms.000webhostapp.com/");
 
 ?>
